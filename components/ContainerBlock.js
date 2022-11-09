@@ -8,9 +8,9 @@ export default function ContainerBlock({ children, ...customMeta }) {
   const router = useRouter();
 
   const meta = {
-    title: "Manu Arora - Developer, Writer, Creator and YouTuber",
-    description: `I've been developing websites for 5 years straight. Get in touch with me to know more.`,
-    image: "/avatar.png",
+    title: "Aimee Pham's Portfolio",
+    description: `Currently looking for open opportunities. Let's talk.`,
+    image: "/AimeePham.png",
     type: "website",
     ...customMeta,
   };
