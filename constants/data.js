@@ -4,30 +4,28 @@ const userData = {
   designation: "Full-Stack Developer",
   avatarUrl: "https://i.imgur.com/e6xqJmd.jpg?2",
   email: "aimee.pham14@gmail.com",
-  phone: "+91 9587738861",
   address: "San Francisco Bay Area",
   projects: [
+    {
+      title: "Evogym Fitness",
+      link: "https://evogym-fitness-site.netlify.app/",
+      imgUrl: "/evogym.png",
+    },
+    {
+      title: "Oober",
+      link: "https://www.loom.com/share/2e9cad04147c4dce87253aab1c0e96c0",
+      imgUrl: "/oober.jpg",
+    },
     {
       title: "Merge Request",
       link: "https://mergerequest.netlify.app/",
       imgUrl: "/mergerequest2.png",
     },
     {
-      title: "The Perfect Blend",
-      link: "https://the-perfect-blend.netlify.app/",
-      imgUrl: "/theperfectblend.png",
-    },
-    {
       title: "Job Application Tracker",
       link: "https://project-2-job-app-aimeepham14.koyeb.app/",
       imgUrl: "/jobtracker.png",
-    },
-    {
-      title: "Simon Says Whack-a-Mole",
-      link: "https://aimeepham14.github.io/SimonSaysWhackaMole/",
-      imgUrl: "/simonsays.png",
-    },
-   
+    },  
   ],
   about: {
     title:
